@@ -1,8 +1,8 @@
-site_name: My Docs
+site_name: Java Docs
 theme:
   name: material
 nav:
-  - Home: index.md
-  - Java Programs:
-      - Hello World: HelloWorld.md
-      - Binary Search: BinarySearch.md
+- helloworld:
+  - HelloWorld: helloworld/HelloWorld.md
+- search:
+  - BinarySearch: search/BinarySearch.md
