@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="simply-dsa" />
+        <module name="java-docs" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="simply-dsa" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

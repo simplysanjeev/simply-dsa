@@ -1,4 +1,6 @@
-# BinarySearch.java
+# `BinarySearch.java`
+
+## Full Source
 
 ```java
 package search;
@@ -30,8 +32,9 @@ public class BinarySearch {
 }
 
 ```
+---
 
-### Example
+## ✨ Example Usage
 
 ```java
     public static void main(String[] args) {

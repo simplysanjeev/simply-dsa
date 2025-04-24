@@ -1,4 +1,6 @@
-# HelloWorld.java
+# `HelloWorld.java`
+
+## Full Source
 
 ```java
 package helloworld;
@@ -31,8 +33,9 @@ public class HelloWorld {
 }
 
 ```
+---
 
-### Example
+## ✨ Example Usage
 
 ```java
     public static void main(String[] args) {
