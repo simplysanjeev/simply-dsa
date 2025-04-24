@@ -1,5 +1,5 @@
 # Directory Structure:
-# java-docs/
+# simply-dsa/
 # ├── pom.xml             # Maven project file
 # ├── src/
 # │   └── main/
@@ -74,7 +74,7 @@ def build_nav(d):
 nav_list = build_nav(nav_entries)
 
 mkdocs_config = {
-    'site_name': 'Java Docs',
+    'site_name': 'Simply DSA',
     'theme': {
         'name': 'material',
         'features': [
