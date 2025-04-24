@@ -1,11 +1,12 @@
-# BinarySearch.java
+# HelloWorldTwo.java
 
 ```java
-package search;
+package helloworld;
 
 import java.util.Arrays;
 
-public class BinarySearch {
+public class HelloWorldTwo {
+
     public static void print(String s) {
         System.out.println(s);
     }

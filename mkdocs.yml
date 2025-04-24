@@ -1,13 +1,12 @@
-site_name: Simply DSA
+site_name: Java Docs
 theme:
   name: material
-  features:
-  - navigation.sections
-  - navigation.expand
-  - toc.integrate
-  - content.code.copy
 nav:
 - helloworld:
   - HelloWorld: helloworld/HelloWorld.md
+  - HelloWorldThree: helloworld/HelloWorldThree.md
+  - HelloWorldTwo: helloworld/HelloWorldTwo.md
 - search:
   - BinarySearch: search/BinarySearch.md
+  - BinarySearchThree: search/BinarySearchThree.md
+  - BinarySearchTwo: search/BinarySearchTwo.md

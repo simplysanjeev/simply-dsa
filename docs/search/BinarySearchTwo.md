@@ -1,11 +1,11 @@
-# BinarySearch.java
+# BinarySearchTwo.java
 
 ```java
 package search;
 
 import java.util.Arrays;
 
-public class BinarySearch {
+public class BinarySearchTwo {
     public static void print(String s) {
         System.out.println(s);
     }
